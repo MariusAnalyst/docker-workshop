@@ -1,3 +1,6 @@
+## all parquet files should not be commited to git
+*.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
